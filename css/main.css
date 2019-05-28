@@ -1,0 +1,30 @@
+
+
+  .fnt{
+      font-family: 'Droid Arabic Kufi' ;
+  }
+  .Img {
+    margin-left: 420px ;
+ 
+    
+  }
+
+  .coloriconfacebook{
+    color  : rgb(58, 84, 202);
+  }
+  .coloricontwitter{
+    color : rgb(77, 139, 180);
+  }
+  .coloriconyoutube{
+    color : rgb(185, 69, 49);
+  }
+  .lnk{
+    text-decoration: none ;
+   
+  }
+  .lst{
+   
+    float: right ;
+ 
+   }
+
